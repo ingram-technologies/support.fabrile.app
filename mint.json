@@ -5,6 +5,7 @@
     "dark": "/icons/fabrile_logo_dark.png",
     "href": "https://fabrile.app"
   },
+  "favicon": "/icons/favicon.png",
   "colors": {
     "primary": "#2AB673",
     "light": "#55D799",
@@ -18,11 +19,11 @@
   "font": {
     "headings": {
       "family": "Roboto",
-      "weight": "700"
+      "weight": 700
     },
     "body": {
       "family": "Oswald",
-      "weight": "500"
+      "weight": 500
     }
   },
   "search": {
