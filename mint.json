@@ -5,7 +5,8 @@
     "dark": "/icons/fabrile_logo_dark.png",
     "href": "https://fabrile.app"
   },
-  "favicon": "/icons/favicon.ico",
+//   Mintify doesn't accept .ico
+//   "favicon": "/icons/favicon.ico",
   "colors": {
     "primary": "#2AB673",
     "light": "#55D799",
@@ -19,11 +20,11 @@
   "font": {
     "headings": {
       "family": "Roboto",
-      "weight": "bold"
+      "weight": "700"
     },
     "body": {
       "family": "Oswald",
-      "weight": "regular"
+      "weight": "500"
     }
   },
   "search": {
