@@ -5,8 +5,6 @@
     "dark": "/icons/fabrile_logo_dark.png",
     "href": "https://fabrile.app"
   },
-//   Mintify doesn't accept .ico
-//   "favicon": "/icons/favicon.ico",
   "colors": {
     "primary": "#2AB673",
     "light": "#55D799",
