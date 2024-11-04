@@ -1,0 +1,48 @@
+{
+  "name": "Fabrile",
+  "logo": {
+    "light": "/icons/fabrile_logo_light.png",
+    "dark": "/icons/fabrile_logo_dark.png",
+    "href": "https://fabrile.app"
+  },
+  "favicon": "/icons/favicon.ico",
+  "colors": {
+    "primary": "#2AB673",
+    "light": "#55D799",
+    "dark": "#117866",
+    "background": {
+      "light": "#FFFFFF",
+      "dark": "#111111"
+    }
+  },
+  "layout": "sidenav",
+  "font": {
+    "headings": {
+      "family": "Roboto",
+      "weight": "bold"
+    },
+    "body": {
+      "family": "Oswald",
+      "weight": "regular"
+    }
+  },
+  "search": {
+    "location": "top"
+  },
+  "topbarLinks": [
+    {
+      "name": "Contact Us",
+      "url": "mailto:support@fabrile.app"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["intro/introduction", "intro/quickstart"]
+    },
+    {
+      "group": "Agents",
+      "pages": ["agents/overview", "agents/configuration"]
+    }
+  ]
+}
