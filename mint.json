@@ -45,5 +45,12 @@
       "pages": ["agents/overview", "agents/configuration"]
     }
   ],
-  "openapi": "https://fabrile.app/api/openapi.json"
+  "anchors": [
+    {
+      "name": "API Reference",
+      "openapi": "https://fabrile.app/api/openapi.json",
+      "url": "api-reference",
+      "icon": "square-terminal"
+    }
+  ]
 }
