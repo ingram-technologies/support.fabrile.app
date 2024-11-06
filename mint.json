@@ -44,5 +44,6 @@
       "group": "Agents",
       "pages": ["agents/overview", "agents/configuration"]
     }
-  ]
+  ],
+  "openapi": "https://fabrile.app/api/openapi.json"
 }
